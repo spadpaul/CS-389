@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.helloworld",
+  "applicationId": "com.example.myfirstapp",
   "variantName": "debug",
   "elements": [
     {
